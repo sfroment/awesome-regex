@@ -66,6 +66,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Storm](http://regexstorm.net/tester) - .NET Regex tester with highlighting and detailed results output.
 - [RegEx to Strings](https://www.wimpyprogrammer.com/regex-to-strings/) - JavaScript library and online tool to generate strings that a regular expression would match.
 - [RegexPal](http://www.regexpal.com) - JavaScript + PCRE online tester.
+- [Serverless Dev Tools - Regex Tester](https://regex-tester.deeply-editorial-370.workers.dev) - Free online regex tester with real-time match highlighting and capture group display. No sign-up, no tracking, all client-side. Part of a [5-tool dev utility suite](https://github.com/sfroment/serverless-dev-tools) on Cloudflare Workers.
 - [RegexTester](http://www.regextester.com) - Regular Expression Tester with highlighting for Javascript and PCRE.
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online Regex tester.
 - [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html) - A secure regular expression tester. built using Go
